@@ -1,0 +1,13 @@
+.formulario .campos .input.input-nao-preechido {
+    border: 1px solid #F52E2E
+}
+
+.formulario .campos p {
+    display: none;
+}
+
+.formulario .campos .msg-nao-preechido {
+    color: red;
+    font-size: 8px;
+    display: block;
+}
